@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1449016419 source:d:\project\gpscoordinate\main.cpp
+	<iostream>
+	"Coordinates.h"
+
+1449016272 d:\project\gpscoordinate\include\coordinates.h
+	<vector>
+	<cmath>
+
+1449016368 source:d:\project\gpscoordinate\src\coordinates.cpp
+	"Coordinates.h"
+
